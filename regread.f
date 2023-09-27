@@ -16,7 +16,7 @@ C  assumes that the volume of solution is ideal.
         double precision wreg(nphasep,nsitep,nspecp,nspecp),vreg(nphasep,nsitep,nspecp,nspecp)
         double precision temp(nspecp,nspecp),vtemp(nspecp,nspecp)
         blank = ' '
-        dirname = dirname(1:ndname)//'/'//'PHASE/'
+        dirname = dirname(1:ndname)//'/'//'phase/'
         ndname = ndname + 7
 c        ncmax = 6
 

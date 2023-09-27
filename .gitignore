@@ -1,1 +1,8 @@
 *.o
+fort.*
+main
+control
+log
+my.patch
+qout
+temp
